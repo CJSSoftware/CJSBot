@@ -11,7 +11,7 @@ Keep [this](https://discordpy.readthedocs.io/en/latest/) saved somewhere, as thi
 All you need to know about the library is defined inside here, even code that I don't use in this example is here.
 
 ## How to setup
-1. Make a bot [here](https://discordapp.com/developers/applications/me) and grab the token
+1. Make a bot [here](https://discordapp.com/developers/applications/me) and grab the token<br>
 ![Image_Example1](https://i.alexflipnote.dev/f9668b.png)
 
 ## Create .env file
